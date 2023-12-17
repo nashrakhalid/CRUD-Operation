@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "name": "nash",
+      "email": "nashrakhalid2@gmail.com",
+      "password": "hggtfdd",
+      "id": 1
+    },
+    {
+      "name": "priya",
+      "email": "priya123@gmail.com",
+      "password": "frrdghg",
+      "id": 2
+    },
+    {
+      "name": "nashra",
+      "email": "nashrakhalid2@gmail.com",
+      "password": "hgfds",
+      "id": 3
+    },
+    {
+      "name": "Afifa Anwar",
+      "email": "afifa1anwar@gmail.com",
+      "password": "hgydtrsggd",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "jh",
+      "email": "kjhy@gmail.com",
+      "password": "",
+      "id": 7
+    }
+  ]
+}
